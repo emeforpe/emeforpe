@@ -9,6 +9,7 @@
   
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt="dotnet" height = 50 width = 50 />
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="dotnet" height = 50 width = 50 />
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" height = 50 width = 100/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="sql" height = 50 width = 50/>
 </p>
