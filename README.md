@@ -1,9 +1,10 @@
-* I am a backend software engineer who is passionate about FOSS. I am mainly interested in these topics:
+* I am a backend software engineer who is passionate about FOSS. I am currently interested in these topics:
   
-  *  Scientific simulations
+  *  Clean architecture & design patterns 
   *  AI & Machine learning
   *  Data Analysis
   *  Cryptography & Computer security
+  *  Scientific simulations
   *  Functional programming
 
 * Some programming languages & frameworks I enjoy working with:  
