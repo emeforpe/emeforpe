@@ -1,4 +1,4 @@
-* I am a backend software engineer and I am interested in :
+* I am a backend software engineer who is passionate about FOSS. I am mainly interested in these topics:
   
   *  Scientific simulations
   *  AI & Machine learning
@@ -6,7 +6,7 @@
   *  Cryptography & Computer security
   *  Functional programming
 
-* The programming languages/frameworks I mainly use are:  
+* Some programming languages & frameworks I enjoy working with:  
   
 <div align="center">
  
