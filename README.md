@@ -1,4 +1,6 @@
-* I am a backend software engineer who is passionate about FOSS. I am currently interested in these topics:
+![Header](./github-header-image.png)
+
+* I am a **backend software engineer** who is passionate about FOSS. I am currently interested in these topics:
   
   *  Clean architecture & design patterns 
   *  AI & Machine learning
