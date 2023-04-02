@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-* I am a **backend software engineer** who is passionate about FOSS. I am currently interested in these topics:
+* I am a **backend software engineer** who is passionate about [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software). I am currently interested in these topics:
   
   *  Clean architecture & design patterns 
   *  AI & Machine learning
