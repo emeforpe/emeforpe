@@ -1,10 +1,14 @@
-![Header](./github-header-image.png)
-
-* I am a **backend software engineer** who is passionate about [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software). 
+<div align="center">
   
-  I am currently interested in these topics: Clean code/architecture, design patterns, cloud computing, artificial intelligence, data analysis, cryptography, computer security and scientific simulations (ok, it's enough...😅)
+[<img src="./github-header-image.png" alt="header" height = 100 width = 700 />](https://dotnet.microsoft.com/en-us/)
 
-* Some programming languages & frameworks I enjoy working with 💻:  
+</div>
+
+▶ I am a **backend software engineer** who is passionate about [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software). 
+  
+💡 I am currently interested in these topics: Clean code/architecture, design patterns, cloud computing, artificial intelligence, data analysis, cryptography, computer security and scientific simulations (ok, it's enough...😅)
+
+💻 Some programming languages & frameworks I enjoy coding with:  
   
 <div align="center">
  
@@ -12,15 +16,7 @@
 |---|---|---|---|---|---|
 
 </div>
- 
-* The tools I use to develop are: 
 
-<div align="center">
- 
-| [<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Linux_tux_circle_logo.svg" alt="dotnet" height = 50 width = 50 />](https://en.wikipedia.org/wiki/Linux) | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DBeaver_logo.png" alt="dotnet" height = 50 width = 50 />](https://dbeaver.io/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/640px-Visual_Studio_Code_1.35_icon.svg.png" alt="dotnet" height = 50 width = 50 />](https://code.visualstudio.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Git_format.png" alt="dotnet" height = 50 width = 60 />](https://git-scm.com/) |
-|---|---|---|---|
-
- </div>
 
 
 
