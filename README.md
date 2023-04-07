@@ -12,10 +12,9 @@
   
 <div align="center">
  
-| [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt="dotnet" height = 50 width = 50 />](https://dotnet.microsoft.com/en-us/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="fortran" height = 50 width = 50 />](https://fortran-lang.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" height = 50 width = 50 />](https://python.org/)  | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" height = 50 width = 50 />](https://www.typescriptlang.org/)  | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="dotnet" height = 50 width = 50 />](https://react.dev/)  | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" height = 50 width = 100/>](https://en.wikipedia.org/wiki/SQL)  | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="sql" height = 50 width = 50/>](https://en.wikipedia.org/wiki/Bash_(Unix_shell))  |
-|---|---|---|---|---|---|---|
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt="dotnet" height = 50 width = 50 />](https://dotnet.microsoft.com/en-us/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="fortran" height = 50 width = 50 />](https://fortran-lang.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" height = 50 width = 50 />](https://python.org/)  | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" height = 50 width = 50 />](https://www.typescriptlang.org/)  | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="dotnet" height = 50 width = 50 />](https://react.dev/)  | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" height = 50 width = 100/>](https://en.wikipedia.org/wiki/SQL)  | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="bash" height = 50 width = 50/>](https://en.wikipedia.org/wiki/Bash_(Unix_shell))  | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" alt="powershell" height = 50 width = 50/>](https://learn.microsoft.com/en-us/powershell/) |
+|---|---|---|---|---|---|---|---|
 
 </div>
-
 
 
