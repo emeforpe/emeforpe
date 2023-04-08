@@ -4,7 +4,7 @@
 
 </div>
 
-▶ I am a **backend software engineer** who is passionate about [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software). 
+👨‍💻 I am a **backend software engineer** who is passionate about [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software). 
   
 💡 I am currently interested in these topics: Clean code/architecture, design patterns, cloud computing, artificial intelligence, data analysis, cryptography, computer security and scientific simulations (ok, it's enough...😅)
 
