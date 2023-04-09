@@ -1,12 +1,10 @@
 <div align="center">
   
-[<img src="./github-header-image.png" alt="header" height = 100 width = 700 />](https://dotnet.microsoft.com/en-us/)
+[<img src="./github-header-image.png" alt="header" height = 75 width = 500 />](https://dotnet.microsoft.com/en-us/)
 
 </div>
 
 👨‍💻 I am a **backend software engineer** who is passionate about [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software). 
-  
-💡 I am currently interested in these topics: Clean code/architecture, design patterns, cloud computing, artificial intelligence, data analysis, cryptography, computer security and scientific simulations (ok, it's enough...😅)
 
 💻 Some programming languages & frameworks I enjoy coding with:  
   
